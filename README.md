@@ -55,7 +55,6 @@ This Pet-Home E-commercial & Social platform is a website about pet community th
 - **Dynamic Webprogram**: Webpage do self-adjustment based on the status of user.
 - **Responsive Design**: Webpage able to fit multiple width browser.
 - **Email Activation**: Automatically verify email sending function.
-- 
 
 ## Contact
 For any further assistance or queries, please feel free to contact the CISC3003-2024-Group01!
